@@ -1,14 +1,14 @@
 
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# Project | Module 3 - Supervised Machine Learning 
+# Project 7 | Module 3 - Supervised Machine Learning 
 
 ## Authors
 ### Vito Coquet & Ildem Sanli 
 
 ## Introduction
 
-The goal of this project is to practise in supervised learning using Netflix data. We need to create the model for the rating prediction. 
+The goal of this project is to practise supervised learning using Netflix data. We need to create the model for the rating prediction. 
 Each group will need to research and implement the defined supervised machine learning methods.
 
 ## About the Dataset
